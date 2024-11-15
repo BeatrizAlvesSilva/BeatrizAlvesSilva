@@ -4,7 +4,7 @@
 
 Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante aprendizado e desenvolvimento de habilidades em várias linguagens de programação.
 
-## Tecnologias que estou aprendendo e usando:
+## 🌱 Tecnologias que estou aprendendo e usando:
 
 [![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
 [![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante
 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
 
-## Projeto de Extensão
+## 🔭 Projeto de Extensão
 
 Atualmente, participo de um **projeto de extensão** da UTFPR que busca **criar jogos educacionais utilizando inteligência artificial**, voltados para **pessoas com deficiência intelectual**. Estou trabalhando no desenvolvimento de um jogo com foco em **educação financeira**, com o objetivo de proporcionar aprendizado de forma acessível e interativa.
 <!--
