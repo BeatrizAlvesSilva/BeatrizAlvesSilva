@@ -3,6 +3,9 @@
 ## 😄 Bem-vindo ao meu perfil GitHub!
 
 Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante aprendizado e desenvolvimento de habilidades em várias linguagens de programação.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+</p>
 
 ## 🌱 Tecnologias que estou aprendendo e usando:
 
@@ -16,10 +19,6 @@ Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante
 ## 🔭 Projeto de Extensão
 
 Atualmente, participo de um **projeto de extensão** da UTFPR que busca **criar jogos educacionais utilizando inteligência artificial**, voltados para **pessoas com deficiência intelectual**. Estou trabalhando no desenvolvimento de um jogo com foco em **educação financeira**, com o objetivo de proporcionar aprendizado de forma acessível e interativa.
-
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="350">
-</p>
 <!--
 **BeatrizAlvesSilva/BeatrizAlvesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
