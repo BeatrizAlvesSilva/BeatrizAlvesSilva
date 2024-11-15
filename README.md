@@ -17,7 +17,7 @@ Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante
 
 Atualmente, participo de um **projeto de extensão** da UTFPR que busca **criar jogos educacionais utilizando inteligência artificial**, voltados para **pessoas com deficiência intelectual**. Estou trabalhando no desenvolvimento de um jogo com foco em **educação financeira**, com o objetivo de proporcionar aprendizado de forma acessível e interativa.
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BeatrizAlvesSilva/BeatrizAlvesSilva/blob/output/github-contribution-grid-snake.svg)
 <!--
 **BeatrizAlvesSilva/BeatrizAlvesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
