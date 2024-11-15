@@ -18,7 +18,7 @@ Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante
 Atualmente, participo de um **projeto de extensão** da UTFPR que busca **criar jogos educacionais utilizando inteligência artificial**, voltados para **pessoas com deficiência intelectual**. Estou trabalhando no desenvolvimento de um jogo com foco em **educação financeira**, com o objetivo de proporcionar aprendizado de forma acessível e interativa.
 
 <p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif](https://tenor.com/pt-BR/view/boy-math-school-asia-study-gif-18879119" width="350">
+  <img src="https://media.tenor.com/images/8e6c31cda0c48d20289a010d9f8325c2/tenor.gif" width="350">
 </p>
 <!--
 **BeatrizAlvesSilva/BeatrizAlvesSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
