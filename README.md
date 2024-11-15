@@ -3,14 +3,14 @@
 ## 😄 Bem-vindo ao meu perfil GitHub!
 
 Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante aprendizado e desenvolvimento de habilidades em várias linguagens de programação.
-<p align="center">
+<!--<p align="center">-->
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
-</p>
+<!--</p>-->
 
 ## 🌱 Tecnologias que estou aprendendo e usando:
-<p align="center">
+<!--<p align="center">-->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-</p>
+<!--</p>-->
 
 ## 🔭 Projeto de Extensão
 
