@@ -1,6 +1,6 @@
 # Olá, me chamo Beatriz! 👋
 
-## Bem-vindo ao meu perfil GitHub!
+## 😄 Bem-vindo ao meu perfil GitHub!
 
 Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante aprendizado e desenvolvimento de habilidades em várias linguagens de programação.
 
