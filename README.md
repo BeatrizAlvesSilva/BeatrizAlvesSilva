@@ -8,14 +8,21 @@ Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante
 </p>
 
 ## 🌱 Tecnologias que estou aprendendo e usando:
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-[![C](https://img.shields.io/badge/-C-black?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
-[![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
-[![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+          
+          
+          
+
+          
+
+          
+
           
 
 ## 🔭 Projeto de Extensão
