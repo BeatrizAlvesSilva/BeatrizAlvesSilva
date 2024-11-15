@@ -3,9 +3,9 @@
 ## 😄 Bem-vindo ao meu perfil GitHub!
 
 Sou estudante de Ciência da Computação na **UTFPR - PG** e estou em constante aprendizado e desenvolvimento de habilidades em várias linguagens de programação.
-<!--<p align="center">-->
+<p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150">
-<!--</p>-->
+</p>
 
 ## 🌱 Tecnologias que estou aprendendo e usando:
 <!--<p align="center">-->
